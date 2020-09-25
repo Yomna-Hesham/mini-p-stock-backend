@@ -1,0 +1,9 @@
+[submodule "mini-p-stock-backend-laravel"]
+	path = mini-p-stock-backend-laravel
+	url = https://github.com/Yomna-Hesham/mini-p-stock-backend-laravel
+[submodule "mini-p-stock-backend-spring"]
+	path = mini-p-stock-backend-spring
+	url = https://github.com/Yomna-Hesham/mini-p-stock-backend-spring
+[submodule "mini-p-stock-backend-node-express"]
+	path = mini-p-stock-backend-node-express
+	url = https://github.com/Yomna-Hesham/mini-p-stock-backend-node-express
